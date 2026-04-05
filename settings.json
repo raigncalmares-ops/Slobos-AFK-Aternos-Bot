@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "char.aternos.host:26720",
+    "ip": "vrovrovro.aternos.me",
     "port": 26720,
     "version": "1.21.11",
     "try-creative": false
